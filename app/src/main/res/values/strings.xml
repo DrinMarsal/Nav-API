@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="menu_home">Home</string>
+    <string name="app_name">Dicoding Event</string>
+    <string name="menu_upcoming">Upcoming</string>
+    <string name="menu_finished">Finished</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_quota">Quota: %d</string>
+    <string name="event_link">Register</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_begin_time">Begin Time: %s</string>
+    <string name="finished_events">Finished Event</string>
+    <string name="upcoming_events">Upcoming Event</string>
+    <string name="remaining_quota">Sisa Kuota : </string>
+    <string name="event_organizer">Penyelenggara</string>
+    <string name="event_owner_name">Event Owner</string>
+    <string name="event_summary">Event Summary</string>
+    <string name="item_error_retry">Retry</string>
+    <string name="item_error_no_internet">No internet</string>
+    <string name="search_hint" tools:ignore="TypographyEllipsis">Search...</string>
+</resources>
